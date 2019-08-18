@@ -9,7 +9,6 @@ import com.lee.eventbus.model.ProductInfo;
 import com.lee.eventbus.model.UserInfo;
 
 import lee.eventbus.annotation.Subscribe;
-import lee.eventbus.apt.EventBusIndex;
 import lee.eventbus.core.EventBus;
 
 /**
